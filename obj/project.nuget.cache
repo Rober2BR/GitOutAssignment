@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1t88i1yvzZc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\coreapps\\GitOutAssignment\\GitOutAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
