@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitOutAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6132b1d7727a6d0fe0ece9ca0547f7b3c59e6856")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitOutAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitOutAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
